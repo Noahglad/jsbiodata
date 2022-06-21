@@ -1,0 +1,1 @@
+console.log("Noah," + " " + "1.7M," + " " +  "from Nigeria")
